@@ -227,3 +227,7 @@ References:
 1. https://javascript.info/bubbling-and-capturing
 2. https://developer.mozilla.org/en-US/docs/Web/API/Event/stopPropagation
 3. https://www.freecodecamp.org/news/a-simplified-explanation-of-event-propagation-in-javascript-f9de7961a06e/
+
+Exercise time
+
+https://github.com/ArcoMul/hyf-js2-class-20-exercise
