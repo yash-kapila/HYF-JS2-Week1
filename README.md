@@ -14,8 +14,6 @@ HYF JavaScript 2 / Week 1 classwork
 
 • Code commenting
 
-• Structuring code files
-
 ### Basic DOM Manipulations
 
 Before going straight into DOM manipulations using JavaScript, a couple of important things to understand is:
